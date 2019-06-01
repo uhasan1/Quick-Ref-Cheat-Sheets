@@ -14,8 +14,9 @@
 
 #### - Machine Learning [3]
 * A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood [3]
-    [Color PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet.pdf) 
-    [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet%20Grayscale.pdf)
+
+    ||[Color PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet.pdf) ---
+    [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet%20Grayscale.pdf)||
 
 
 
