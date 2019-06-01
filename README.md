@@ -12,14 +12,18 @@
 #### - Reinforcement-Learning-Cheat-Sheet [2]
 * [Cheatsheet for basic Reinforcement Learning concepts and methods.](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/rl_cheatsheet.pdf)
 
-#### - Machine Learning [3]
+#### - Machine Learning
 * A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood [3]
 
     ||[Color PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet.pdf) ---
     [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet%20Grayscale.pdf)||
 
 
+#### - Stats / Probability
+* Comprehensive 10-page summary that covers a semester's worth of introduction to probability. [4]
 
+    ||[Color PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/probability_cheatsheet.pdf) ---
+    [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/probability_cheatsheet_blackwhite.pdf)||
 
 
 -----------------------------------------------
@@ -31,3 +35,6 @@ Biblio
 [2] [/FrancescoSaverioZuppichini/Reinforcement-Learning-Cheat-Sheet]
 
 [3] [/capm/ml_cheatsheet]
+
+[4] [/wzchen/probability_cheatsheet]
+
