@@ -20,7 +20,7 @@
      ||[Color PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet.pdf) ---
    [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/Machine%20Learning%20Cheatsheet%20Grayscale.pdf)||
 
-#### * [- Comprehensive Python Cheatsheet](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/README1.md) [5]
+#### * [- Comprehensive Python Cheatsheet](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/README1.md) [5]
    
 -----------------------------------------------
 
