@@ -35,8 +35,8 @@
     [Grey Scale PDF](https://github.com/uhasan1/Quick-Ref-Cheat-Sheets/blob/master/probability_cheatsheet_blackwhite.pdf)||
 
 
------------------------------------------------
------------------------------------------------
+------------------------------------------------
+------------------------------------------------
 Biblio
 
 [1] [/remicnrd/Deep_Learning_notebooks]
